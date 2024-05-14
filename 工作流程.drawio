@@ -1,46 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T14:04:01.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="p3Car2QkdsBiQ1opIOfo" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T14:12:09.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="vE1WCW34c2bUtx9JT5w6" version="24.4.0" type="github">
   <diagram name="第 1 页" id="JT93lOlKmxsaBj84STKf">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="URbfV4v1nVIsuycU80eO-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B5739D;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="240" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-3" value="第三章&lt;div&gt;四足机器人的数学模型搭建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-3" target="URbfV4v1nVIsuycU80eO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-3" target="URbfV4v1nVIsuycU80eO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-3" value="第三章&lt;div&gt;四足机器人的数学模型搭建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="310" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-5" value="第二章&lt;div&gt;四足机器人结构设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-5" target="URbfV4v1nVIsuycU80eO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-5" target="URbfV4v1nVIsuycU80eO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-5" value="第二章&lt;div&gt;四足机器人结构设计&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-7" value="第一章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-7" target="URbfV4v1nVIsuycU80eO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-7" value="第一章&lt;div&gt;绪论&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="50" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-8" value="第四章&lt;div&gt;四足步态研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-8" target="URbfV4v1nVIsuycU80eO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-8" target="URbfV4v1nVIsuycU80eO-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-8" value="第四章&lt;div&gt;四足步态研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="430" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-9" value="第五章&lt;div&gt;控制方法研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-9" target="URbfV4v1nVIsuycU80eO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="URbfV4v1nVIsuycU80eO-9" target="URbfV4v1nVIsuycU80eO-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="URbfV4v1nVIsuycU80eO-9" value="第五章&lt;div&gt;控制方法研究&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="560" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-10" value="第六章&lt;div&gt;基于遗传算法的分解式VMC控制器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-10" value="第六章&lt;div&gt;基于遗传算法的分解式VMC控制器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="120" y="650" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-11" value="&lt;div&gt;第七章&lt;/div&gt;控制仿真分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-11" value="&lt;div&gt;第七章&lt;/div&gt;控制仿真分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="650" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="URbfV4v1nVIsuycU80eO-29" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CCCC;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="145" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-23" value="优化控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-23" value="优化控制器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="660" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-14" value="机体及腿部机构设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-14" value="机体及腿部机构设计" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-15" value="拓扑结构选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-15" value="拓扑结构选择" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-16" value="结构分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-16" value="结构分析" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="230" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="URbfV4v1nVIsuycU80eO-31" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CCCC;dashed=1;" vertex="1" parent="1">
@@ -49,25 +76,25 @@
         <mxCell id="URbfV4v1nVIsuycU80eO-30" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CCCC;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-17" value="运动学模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-17" value="运动学模型" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-18" value="动力学模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-18" value="动力学模型" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-19" value="步态选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-19" value="步态选择" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="420" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-20" value="步态时序规划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-20" value="步态时序规划" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="460" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="URbfV4v1nVIsuycU80eO-32" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00CCCC;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="539.5" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-21" value="传统VMC模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-21" value="传统VMC模型" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="549.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="URbfV4v1nVIsuycU80eO-22" value="分解式VMC模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="URbfV4v1nVIsuycU80eO-22" value="分解式VMC模型" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="589.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
